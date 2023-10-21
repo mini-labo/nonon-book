@@ -1,0 +1,1 @@
+# NononFriendCard.sol
