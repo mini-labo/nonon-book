@@ -1,6 +1,6 @@
 # Levels
 
-As you help the nonons make more friends and collect more and more points, your friend card will evolve to reflect the increasing power of your friendship.
+As you help the nonons spread across the world and collect more and more points, your friend card will evolve to reflect your increasing power.
 Reaching point thresholds for the levels below will upgrade your card, changing its metadata and visuals.
 
 ## Level point requirements

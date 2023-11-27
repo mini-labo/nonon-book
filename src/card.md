@@ -4,14 +4,14 @@ When you first cross paths with a nonon, you might notice a new item in your pos
 
 Your Nonon Friend Card!
 
-![Nonon Friend Card](./img/nonon-level-1.svg "new baby friend")
+![Nonon Friend Card](./img/nonon-level-1.svg "new friend")
 
 Your nonon friend card is a soulbound NFT, limited to one per user, that grows and changes as you encounter more nonons.
 
 ## How does this work?
 
-The nonon friend card is a one of a kind, fully on chain NFT that serves dynamic data based on your on-chain engagement 
-with the nonon collection.
+The nonon friend card is a one of a kind, fully on chain NFT that serves dynamic data based on your on-chain actions 
+with nonons.
 
 The nonon friend card features dynamic artwork constructed during a chain call, without the need to host any data on image hosting
 services, IPFS, or anywhere other than ethereum.
