@@ -1,6 +1,6 @@
 # Nonon Friend Points
 
-Nonons are restless wanderers who are constantly on the lookout for new friends.
+Nonons are restless wanderers who are constantly on the lookout for new adventures.
 Each nonon that crosses your path will leave a record of their time with you.
 
 ## what does this mean?
@@ -15,5 +15,5 @@ This means that you can earn a total of 2 points per nonon.
 
 nonon friendship points have some benefits including:
 - Increasing the [level](./levels.md) of your [friend card](../card.md)
-- Compete to earn a spot on the [nonon.house](nonon.house) leadership board and broadcast your custom message 
+- A chance to earn a spot on the [nonon.house](nonon.house) leadership board and broadcast your custom message 
 - Possible future rewards and opportunities that are yet to be revealed...

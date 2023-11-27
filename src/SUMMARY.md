@@ -1,7 +1,10 @@
 # Summary
 
 [Introduction](./introduction.md)
-[nonon-kei](./nonon-kei-manifestum.md)
+
+# Nonon-Kei
+
+- [Manifestum](./nonon-kei-manifestum.md)
 
 # Nonon friend system 
 

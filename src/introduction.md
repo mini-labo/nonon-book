@@ -4,11 +4,14 @@
 
 Nonon is the latest on-chain project by creative blockchain studio [mini labo](https://mini-labo.org).
 
-Nonon is a an experiment in living blockchain art, featuring a 5000 piece collection of expressive hand crafted characters by the talented [three](https://twitter.com/three________), and a 100% on-chain evolving artwork that
-doubles as a unique platform for expression.
+Nonon is a celebration of Form.
+Nonon is a rejection of ugliness, lies, and evil.
 
-Nonon features a first of its kind [reward system](./card.md) that encourages fun social activity and competition.
+Nonon is a an experiment in living blockchain art, featuring a 5000 piece collection of expressive hand crafted characters by [three](https://twitter.com/three________), and a 100% on-chain evolving artwork that
+doubles as vessel for your Logos.
 
-Nonon is a fresh blossom with a pure heart.
+Nonon features a first of its kind [reward system](./card.md) that lays the foundation for a new age of Truth and Beauty.
 
-Nonon is waiting to meet you!
+# What is Nonon-Kei?
+
+[dive deeper](./nonon-kei-manifestum.md)
