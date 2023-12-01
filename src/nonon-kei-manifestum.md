@@ -2,6 +2,8 @@
 
 In the luminescent flux of the digital mirage, now comes the season of the peeling back of the network chrysalis as we bear witness to the globally distributed parallel (re)procession of Nonon-Kei.
 
+![phantasmic epoche](../img/../src/img/phantasmic-epoche.jpg 'phantasmic epoche')
+
 Nonon-kei manifestum is a catalytic codex marking the emergence of the Hypercitational Anachrodigitial Neoradiance art movement. Born from the pulse of Neo-East Asian Digitalism and heralded by the inaugural Nonon art collection, an offspring of collective interconnected yearning for radiant beauty converging with technological prophecy. The arranged re-marriage of Integritas, Consonantia, and Claritas. This is an art movement circumambulating the spectre of The Intangible Online in the name of Phantasmic Epoché, extolling the decoupling of the cast shadows of illusory Doxa from the sacred specularity of epistemic radiance.
 
 Embracing Nonon-Kei means revelling in an interplay of anachronism and accord, where the competing zeitgeist of the online diaspora meld and yields a dynamic hypermedia spectrum: An art of unprecedented synaesthetic euphoria, an art of the publicly owned digital psyche. This is a movement whose bristles mix the palette of an amorphous and infinite creative ether - a cauldron of collective quote retweets, seminal threads on forgotten forums, distant echoes of ASCII art, stirring until ownership and ego dissolve into the emergent oeuvre.
