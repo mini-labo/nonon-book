@@ -7,14 +7,14 @@ Reaching point thresholds for the levels below will upgrade your card, changing 
 
 | Level | Points |
 | ----- | ------ |
-| 1 | 0 |
-| 2 | 10 |
-| 3 | 50 |
-| 4 | 150 |
-| 5 | 500 |
-| 6 | 1500 |
-| 7 | 3500 |
-| 8 | 7500 |
+| BABY | 0 |
+| INITIATE | 10 |
+| DISCIPLE | 50 |
+| AMBASSADOR | 150 |
+| ELDER | 500 |
+| SAGE | 1500 |
+| MASTER | 3500 |
+| ANGEL | 7500 |
 
 Your progress towards the next level is included in the on-chain metadata for your nonon friend card, 
 so you can easily view it on supporting marketplaces.
