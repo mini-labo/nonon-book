@@ -2,7 +2,7 @@
 
 nonon.txt is a way to make your friend card a tool to spread your ideas.
 
-![nonon.txt shilling](../img/message-png "you can shill anything you want here")
+![nonon.txt shilling](../img/message.png "you can shill anything you want here")
 
 At the bottom of each nonon friend card, a `nonon.txt` field is displayed.
 
