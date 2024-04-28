@@ -17,7 +17,7 @@ Your message is committed on chain and there is no censorship mechanism. Please 
 
 ### leaderboard
 
-The addresses with the most nonon friend points will be listed on the leaderboard at [nonon.house](nonon.house).
+The addresses with the most nonon friend points will be listed on the leaderboard at [nonon.house](https://nonon.house).
 The nonon.txt for each leader will be displayed alongside their listing in the leaderboard for all the world to see.
 This is the perfect opportunity to show off your creativity! The world is waiting for your message.
 
@@ -25,4 +25,4 @@ This is the perfect opportunity to show off your creativity! The world is waitin
 
 After receiving any nonon and getting your friend card, the ability to set your `nonon.txt` to a custom message is unlocked.
 Your message can be set by calling the `setMessage(uint256 tokenId)` function on the friend card contract.
-You can do this conveniently by accessing the page for your friend card at [nonon.house](nonon.house).
+You can do this conveniently by accessing the page for your friend card at [nonon.house](https://nonon.house).

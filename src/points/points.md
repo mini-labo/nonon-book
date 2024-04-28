@@ -15,5 +15,5 @@ This means that you can earn a total of 2 points per nonon.
 
 nonon friendship points have some benefits including:
 - Increasing the [level](./levels.md) of your [friend card](../card.md)
-- A chance to earn a spot on the [nonon.house](nonon.house) leadership board and broadcast your custom message 
+- A chance to earn a spot on the [nonon.house](https://nonon.house) leadership board and broadcast your custom message
 - Possible future rewards and opportunities that are yet to be revealed...
